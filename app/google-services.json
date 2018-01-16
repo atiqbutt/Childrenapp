@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1083075976296",
+    "firebase_url": "https://push-notification-4f052.firebaseio.com",
+    "project_id": "push-notification-4f052",
+    "storage_bucket": "push-notification-4f052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083075976296:android:7cec051e379bd9bc",
+        "android_client_info": {
+          "package_name": "com.softvilla.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083075976296-rhl7einpm542niku4dr1vp7qr699ndvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softvilla.pushnotification",
+            "certificate_hash": "2d2844289df6cd5689f75034dec421ddfc301e7f"
+          }
+        },
+        {
+          "client_id": "1083075976296-jgna9l2mjrfs4hcne1h6dckhvts648d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkBqPJx8enT_ZDprt-vnNDF7bkPWJqftw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083075976296-jgna9l2mjrfs4hcne1h6dckhvts648d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083075976296:android:53cda60caa27a936",
+        "android_client_info": {
+          "package_name": "com.softvilla.childapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083075976296-i5n3fam066v4nugtk1ao0jco0skdeioe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softvilla.childapp",
+            "certificate_hash": "2d2844289df6cd5689f75034dec421ddfc301e7f"
+          }
+        },
+        {
+          "client_id": "1083075976296-jgna9l2mjrfs4hcne1h6dckhvts648d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkBqPJx8enT_ZDprt-vnNDF7bkPWJqftw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083075976296-jgna9l2mjrfs4hcne1h6dckhvts648d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
